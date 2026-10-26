@@ -1,6 +1,6 @@
 # Notice and attribution
 
-© 2026 Nacho Palomares Martín. All rights reserved for original Far0 materials.
+© 2026 Ignacio Palomares Martín. All rights reserved for original Far0 materials.
 
 This repository is a product showcase. No open-source licence is granted for Far0 or its private application code. The repository contains selected documentation and images only.
 
