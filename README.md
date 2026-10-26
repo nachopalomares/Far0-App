@@ -15,17 +15,16 @@ Built by [Ignacio Palomares Martín](https://github.com/nachopalomares). This re
 ## See the app
 
 <p align="center">
-  <img src="assets/screenshots/iphone-onboarding.jpg" alt="Far0 onboarding introducing articles, books, films, videos, music and wishlists" width="250">
-  <img src="assets/screenshots/iphone-summary.jpg" alt="A real technology article with its AI-generated summary in Far0" width="250">
+  <img src="assets/screenshots/iphone-wishlist.jpg" alt="iPhone wishlist showing real products with photos and prices" width="250">
+  <img src="assets/screenshots/iphone-books.jpg" alt="iPhone books collection showing The Hobbit, 1984 and editions of The Little Prince with their covers" width="250">
+  <img src="assets/screenshots/iphone-articles.jpg" alt="iPhone saved-websites collection showing ESA, NASA, web.dev and W3C links" width="250">
 </p>
 
-Screenshots show the running app in iOS simulators. Public links are demonstration content, separate from a personal library. The summary example uses a real, explicitly authorized AI request. The interface is currently Spanish; the documentation is English.
+**Wishlist · Books · Websites & articles**
+
+All three screenshots show collection views in the running iPhone app, without opening an individual bookmark. Public links are curated demonstration content, separate from a personal library. Product prices are retrieved page metadata, not current offers or price tracking. The interface is currently Spanish; the documentation is English.
 
 [Browse the screenshots](docs/GALLERY.md) · [Walk through the app](docs/PRODUCT.md) · [Engineering decisions](docs/ENGINEERING.md)
-
-<p align="center">
-  <img src="assets/screenshots/iphone-wishlist.jpg" alt="Far0 on iPhone, showing a wishlist with real IKEA and Apple product previews" width="290">
-</p>
 
 ## What Far0 does
 
