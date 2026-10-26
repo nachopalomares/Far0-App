@@ -2,7 +2,7 @@
 
 [Back to the overview](../README.md) · [Full product walkthrough](PRODUCT.md)
 
-Three collection views from the running app in an iPhone simulator, captured on 26 October 2026. Every screenshot stays in the library, without opening a particular bookmark. The interface is Spanish; the documentation is English. The links are public demonstration content, separate from a personal library.
+Three collection views and one article detail from the running app in iPhone simulators, captured on 26 October 2026. The collection screenshots show the library; the fourth opens a saved link to show its description and summary. The interface is Spanish; the documentation is English. The links are public demonstration content, separate from a personal library.
 
 ## Wishlist: products, photos and prices
 
@@ -24,10 +24,18 @@ The collection includes [The Hobbit](https://books.apple.com/us/book/the-hobbit/
 
 This view brings together [ESA Space Science](https://www.esa.int/Science_Exploration/Space_Science), [NASA Mars](https://science.nasa.gov/mars/), [Learn Performance](https://web.dev/learn/performance) and [W3C's introduction to web accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/). The list shows the source, title, available description and URL before opening a page.
 
+## Inside a saved article: description and summary
+
+<img src="../assets/screenshots/iphone-summary.jpg" alt="Far0 article detail on iPhone, showing the source description and the beginning of a real AI-generated summary about Google's Willow quantum chip" width="320">
+
+The saved link is Google's [Willow quantum chip announcement](https://blog.google/innovation-and-ai/technology/research/google-willow-quantum-chip/). The detail brings together its title, source description and the beginning of a Spanish AI-generated summary. More of the summary is available by scrolling.
+
+This screenshot reuses the previously authorized live demonstration: a dedicated simulator held only this bookmark, and one summary generation was requested through the app. The title was entered manually; the description came from the page and the summary is shown as returned, without rewriting it for the screenshot. An AI summary can contain mistakes and should be checked against the original article.
+
 ## Demonstration conditions
 
 The collection demo uses an in-memory library with AI permission disabled. Links whose metadata did not render usefully were archived in that temporary demo library. The screenshots show the resulting app UI, rather than reconstructed cards or invented prices.
 
-A separate, previously authorized live demo generated one article summary from Google's [Willow quantum chip announcement](https://blog.google/innovation-and-ai/technology/research/google-willow-quantum-chip/). The current gallery keeps all screenshots at collection level. Summary processing, capture, notes, offline reading, Rediscover, recovery, access and settings are explained in [the product walkthrough](PRODUCT.md).
+Summary processing, capture, notes, offline reading, Rediscover, recovery, access and settings are explained in [the product walkthrough](PRODUCT.md).
 
 These simulator images do not certify physical-device behaviour or production purchases. Third-party content belongs to its respective owners; no affiliation or endorsement is implied. See [NOTICE](../NOTICE.md).

@@ -22,7 +22,13 @@ Built by [Ignacio Palomares Martín](https://github.com/nachopalomares). This re
 
 **Wishlist · Books · Websites & articles**
 
-All three screenshots show collection views in the running iPhone app, without opening an individual bookmark. Public links are curated demonstration content, separate from a personal library. Product prices are retrieved page metadata, not current offers or price tracking. The interface is currently Spanish; the documentation is English.
+The three screenshots above show collection views in the running iPhone app, without opening an individual bookmark. Public links are curated demonstration content, separate from a personal library. Product prices are retrieved page metadata, not current offers or price tracking. The interface is currently Spanish; the documentation is English.
+
+<p align="center">
+  <img src="assets/screenshots/iphone-summary.jpg" alt="Inside a saved article: Google's Willow quantum chip announcement with its description and a real AI-generated summary" width="290">
+</p>
+
+**Inside a saved article:** the source description and the beginning of a real AI-generated summary, shown in the bookmark detail.
 
 [Browse the screenshots](docs/GALLERY.md) · [Walk through the app](docs/PRODUCT.md) · [Engineering decisions](docs/ENGINEERING.md)
 
