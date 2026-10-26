@@ -2,7 +2,7 @@
 
 [Back to the overview](../README.md) · [Full product walkthrough](PRODUCT.md)
 
-These are captures of the running development app in iPhone and iPad simulators, taken on 26 October 2026. The app interface is Spanish. Public links are demo content, separate from a personal library. Screenshots are not design mockups.
+These are captures of the running development app in iPhone simulators, taken on 26 October 2026. The app interface is Spanish. Public links are demo content, separate from a personal library. Screenshots are not design mockups.
 
 ## Capture and first launch
 
@@ -30,11 +30,11 @@ The example is Google's [Meet Willow, our state-of-the-art quantum chip](https:/
 
 This demonstrates an article summary, not video summarization. An AI summary can contain mistakes and should be checked against its original source.
 
-## iPad navigation
+## A wishlist on iPhone
 
-<img src="../assets/screenshots/ipad-library.jpg" alt="iPad library with persistent navigation sidebar and real Goodreads book titles and covers" width="700">
+<img src="../assets/screenshots/iphone-wishlist.jpg" alt="iPhone wishlist with real IKEA and Apple product names, images and available price metadata" width="290">
 
-The sidebar keeps the library destinations visible while the selected collection occupies the main pane. The books shown come from public Goodreads pages, including [The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit) and [The Alchemist](https://www.goodreads.com/book/show/865.The_Alchemist). This capture uses an in-memory public-link demo library, with AI permission disabled. It does not demonstrate sync with the iPhone.
+The wishlist brings together product links with the images and price metadata available from their source pages. This capture includes public [IKEA KALLAX](https://www.ikea.com/es/es/p/kallax-estanteria-blanco-20275814/), [IKEA LACK](https://www.ikea.com/es/es/p/lack-mesa-auxiliar-blanco-30449908/) and [MacBook Air](https://www.apple.com/es/shop/buy-mac/macbook-air) links. Prices are captured page metadata, not current offers or price tracking. A source that does not expose a usable price is labelled accordingly. This is an in-memory demo library with AI permission disabled.
 
 ## Subscription preview
 
@@ -44,6 +44,6 @@ The annual total and monthly plan are presented with renewal information. This i
 
 ## Coverage and attribution
 
-The images show onboarding, the capture form, an inbox, AI consent, one real summary, iPad navigation and the development subscription screen. Search, the Share Extension, notes, offline reading, Rediscover, recovery and settings are documented in [the product walkthrough](PRODUCT.md); this gallery does not claim screenshots or fresh interactive validation of every feature.
+The images show onboarding, the capture form, an inbox, AI consent, one real summary, an iPhone wishlist and the development subscription screen. Search, the Share Extension, notes, offline reading, Rediscover, recovery and settings are documented in [the product walkthrough](PRODUCT.md); this gallery does not claim screenshots or fresh interactive validation of every feature.
 
 Third-party content remains the property of its respective owners. No affiliation or endorsement is implied. See [NOTICE](../NOTICE.md).

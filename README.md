@@ -24,7 +24,7 @@ Screenshots show the running app in iOS simulators. Public links are demonstrati
 [Browse the screenshots](docs/GALLERY.md) · [Walk through the app](docs/PRODUCT.md) · [Engineering decisions](docs/ENGINEERING.md)
 
 <p align="center">
-  <img src="assets/screenshots/ipad-library.jpg" alt="Far0 on iPad, showing a book collection with real Goodreads covers beside the library sidebar" width="620">
+  <img src="assets/screenshots/iphone-wishlist.jpg" alt="Far0 on iPhone, showing a wishlist with real IKEA and Apple product previews" width="290">
 </p>
 
 ## What Far0 does
