@@ -8,7 +8,7 @@
 
 A native iPhone and iPad app that brings articles, products, books, films, music and videos into a personal bookmark library. Capture from the share sheet, add a note, organize your links and read compatible articles offline.
 
-Built by [Nacho Palomares Martín](https://github.com/nachopalomares). This repository presents the product and the engineering behind it. **The application source code is private.**
+Built by [Ignacio Palomares Martín](https://github.com/nachopalomares). This repository presents the product and the engineering behind it. **The application source code is private.**
 
 **Development beta · iPhone & iPad · Spanish app interface**
 
@@ -69,4 +69,4 @@ This is a public product showcase for companies and technical reviewers. It cont
 
 For professional enquiries, visit [my GitHub profile](https://github.com/nachopalomares).
 
-© 2026 Nacho Palomares Martín. All rights reserved. See [NOTICE](NOTICE.md) for asset attribution.
+© 2026 Ignacio Palomares Martín. All rights reserved. See [NOTICE](NOTICE.md) for asset attribution.
